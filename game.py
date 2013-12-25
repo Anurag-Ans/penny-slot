@@ -1,4 +1,4 @@
-import random
+import random # importing random built in lib
 x= 0
 bet = 100
 while x == 0   :
